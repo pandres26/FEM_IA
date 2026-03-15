@@ -5,7 +5,7 @@
 * Fernando ([@ferBV](https://github.com/ferBV))
 * Monica ([@monicasoria](https://github.com/monicasoria))
 * Christian ([@gnurock](https://github.com/gnurock))
-* Andres (andres413pq@gmail.com)
+* P Andres ([@pandres26] (https://github.com/pandres26))
 
 ### Descripción 
 
